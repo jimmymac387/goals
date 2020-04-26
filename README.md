@@ -2,8 +2,11 @@
 This is a running list of my programming goals for 2020
 
 Do:
+- [ ] Create daily goal tracker
 - [ ] Finish notes for Practical Statistics for Data Science
-- [ ] Start blogging and using social media
+- [ ] Create website
+  - [ ] Start blogging
+- [ ] Start using social media more
 
 Learn:
 - [ ] Parallelization using JAGS
